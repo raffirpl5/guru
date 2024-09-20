@@ -25,12 +25,12 @@ public class KelasGuru {
 
     public String getMapel() {
         return this.mapel;
-    }
+    }    
 
     public void setMapel(String mapel) {
         this.mapel = mapel;
     }
-
+ 
     public String getStatus() {
         return this.status;
     }
